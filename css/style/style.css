@@ -1,0 +1,23 @@
+body {
+background-color:#00f5e1;
+background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+	font-size: 65px;
+	text-align: center;
+	font-family:'Amatic SC';
+}
+
+h1 {
+text-shadow: 2px 5px white;
+	text-align: center;
+	font-size: 85px;
+  
+}
+h2 {
+  font-size: 35px;
+  color: pink;
+	
+}
+
+button {
+  color: white;
+}
